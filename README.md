@@ -1,4 +1,4 @@
-# No free allocator for Rust
+# No `free` allocator for Rust
 
 Note: This is joke crate. It isn't recommended to use this for production.
 
